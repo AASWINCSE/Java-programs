@@ -1,3 +1,4 @@
+//car details
 class JavaProblems {
     String brand;
     String model;
@@ -19,6 +20,7 @@ class JavaProblems {
     }
 }
 
+//rectangle area calculation
 class JavaProblems {
     double l;
     double w;
@@ -36,7 +38,7 @@ class JavaProblems {
     }
 }
 
-
+//students details
 class JavaProblems {
     String name;
     int rollNumber;
@@ -60,6 +62,7 @@ class JavaProblems {
     }
 }
 
+//books details
 class JavaProblems {
     String title;
     String author;
@@ -86,6 +89,8 @@ class JavaProblems {
     }
 }
 
+
+//abstraction usin area calcuation
 abstract class Java {
     abstract double calculateArea();
 }
